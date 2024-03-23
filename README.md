@@ -1,8 +1,8 @@
-# Crowdfunding_ETL Mini-Project
+# Crowdfunding_ETL
 
 ## 1) Executive Summary:
 
-The Project 2, titled "Crowdfunding ETL," aims to demonstrate the extraction, transformation, and loading (ETL) process using Python, Pandas, and other relevant tools. The project involves creating structured datasets from raw Excel data files, specifically 'crowdfunding.xlsx' and 'contacts.xlsx', and exporting them into CSV files. Additionally, the project includes creating a PostgreSQL database schema based on the CSV data and importing the data into the respective tables. Through this project, we aim to showcase proficiency in data manipulation, schema design, and database management, essential skills for data analysts and business intelligence professionals.
+Project "Crowdfunding ETL," aims to demonstrate the extraction, transformation, and loading (ETL) process using Python, Pandas, and other relevant tools. The project involves creating structured datasets from raw Excel data files, specifically 'crowdfunding.xlsx' and 'contacts.xlsx', and exporting them into CSV files. Additionally, the project includes creating a PostgreSQL database schema based on the CSV data and importing the data into the respective tables. Through this project, we aim to showcase proficiency in data manipulation, schema design, and database management, essential skills for data analysts and business intelligence professionals.
 
 ## 2) Project Scope:
 

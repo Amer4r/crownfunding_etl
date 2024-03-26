@@ -50,5 +50,12 @@ Key takeaways from the Crowdfunding ETL project include:
 - Knowledge of best practices for handling data extraction, transformation, and loading tasks efficiently
 - Insight into the importance of data quality, integrity, and consistency in database management projects
 
+## 6) Recommendations for Future Study:
+
+For future study and improvement, consider the following recommendations:
+
+- Incorporate data visualization and reporting tools to analyze and present insights derived from the database
+- Collaborate with domain experts to understand more complex data transformation and cleansing techniques to handle real-world data challenges effectively
+
 
 
